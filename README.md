@@ -34,7 +34,7 @@ Now you'll find the extension at top-left of Bitwig Studio:
 
 ![main ui](/docs/main.png)
 
-> Note: the values in are only filled, once you start modifying the project. This is done, as oherwise Bitwig Studio will mark the project as modified when this extension updates the window.
+> Note: the values in are only filled, once you start modifying the project. This is done, as otherwise Bitwig Studio will mark the project as modified when this extension updates the window.
 
 ## Usage
 
