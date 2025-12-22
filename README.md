@@ -21,7 +21,6 @@ I am assuming Linux here.
 
 ```shell
 mvn install
-cp target/TimeCalc.bwextension ~/Bitwig\ Studio/Extensions/
 ```
 
 ## Activate the extension
